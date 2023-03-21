@@ -1,4 +1,4 @@
-# C-Projects(SimpleBush)
+# C-Projects(SimpleBash)
 
 ## Welcome!
 
